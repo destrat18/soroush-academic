@@ -1,31 +1,35 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Soroush Farrokhnia
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Computer Engineering
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Huma.co
+  url: "https://huma.ir/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Machine Learning, Esp. Deep Learning
+- Natural Language Understanding Esp. Machine Translation and Text Summarization
+- Big Data, Data Analytic, and Data-Driven software
+- Recommendation Systems, Esp. Text-based suggestion
+
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
+  - course: B.Sc. in Computer Engineering
+    institution: University of Yazd
+    year: 2018
+    hi :  University of Yazd is the first university in the province. to enter the Faculty
+    of Computer Engineering, you must be the top 0.1% among 500,000 participants in the Iranian           Nationwide University Entrance Exam.
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2009
