@@ -35,7 +35,7 @@ social:
   link: '/#contact'  # For a direct email link, use "mailto:Soroush.farrokhnia@gmail.com".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/s_farrokhnia
 - icon: goodreads
   icon_pack: fab
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
