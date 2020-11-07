@@ -28,7 +28,7 @@ education:
   - course: B.Sc. in Computer Engineering
     institution: University of Yazd
     year: 2018
-    title: hi
+    gooz
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2009
