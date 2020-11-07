@@ -42,7 +42,7 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
-- icon: fa-goodreads
+- icon: goodreads
   icon-pack: fab
   link:
 # Link to a PDF of your resume/CV from the About widget.
