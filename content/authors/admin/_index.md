@@ -38,13 +38,13 @@ social:
   link: https://twitter.com/s_farrokhnia
 - icon: goodreads
   icon_pack: fab
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://www.goodreads.com/user/show/24730118-soroush-farrokhnia
 - icon: github
   icon_pack: fab
   link: https://github.com/destrat18/
-- icon: linkedin
-  icon-pack: fab
-  link: https://www.linkedin.com/in/destrat18/
+- icon: github
+  icon_pack: fab
+  link: https://github.com/destrat18/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
