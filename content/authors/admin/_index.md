@@ -11,7 +11,7 @@ role: Computer Engineering
 # Organizations/Affiliations
 organizations:
 - name: Huma.co
-  url: "https://huma.ir/"
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -59,4 +59,4 @@ user_groups:
 - Visitors
 ---
 
-hi
+
