@@ -28,8 +28,7 @@ education:
   - course: B.Sc. in Computer Engineering
     institution: University of Yazd
     year: 2018
-    hi :  University of Yazd is the first university in the province. to enter the Faculty
-    of Computer Engineering, you must be the top 0.1% among 500,000 participants in the Iranian           Nationwide University Entrance Exam.
+    
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2009
