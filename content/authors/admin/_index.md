@@ -23,12 +23,11 @@ interests:
 - Recommendation Systems, Esp. Text-based suggestion
 
 
-education:
+# education:
   courses:
   - course: B.Sc. in Computer Engineering
     institution: University of Yazd
     year: 2018
-    gooz
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2009
