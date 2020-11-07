@@ -25,7 +25,7 @@
   
 [[main]]
   name = "CV"
-  url = "/static/media/Soroush_Farrokhnia_CV.pdf"
+  url = "media/Soroush_Farrokhnia_CV.pdf"
   weight = 50
 
 [[main]]
