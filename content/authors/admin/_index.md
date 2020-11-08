@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Soroush Farrokhnia
+title: Soroush Farrokhnia Khar
 
 # Is this the primary user of the site?
 superuser: true
