@@ -18,27 +18,46 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Goh khor"
-  company = "GenCoin"
+  title = "Data Analyst"
+  company = "Huma co"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Tehran, Iran"
+  date_start = "Jun. 2017"
   date_end = ""
   description = """
+  Supervisor: Behnam Shakibafar
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * • Expanded a recommendation and trend detection system
+      based on user’s behavior with help of machine learning
+      (mostly neural networks) Approaches such as RNN , Word2Vect , TreNet
+
+  * Designed and implemented a data crawling tools with the
+    ability to be personalized
+
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Researcher"
+  company = "Nexus3D, RoboCup Soccer Simulation Team"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Ferdowsi University of Mashhad, Mashhad, Iran"
+  date_start = "2015"
+  date_end = "2017"
+  description = """Expanded and evaluated real-time decision making and tactical behavior approach with potential fields."""
+
+
+[[experience]]
+  title = "Intern"
+  company = "Nexus3D, RoboCup Soccer Simulation Team"
+  company_url = ""
+  location = "Mashhad, Iran"
+  date_start = "2015"
+  date_end = "2017"
+  description = """
+  Supervisor: Behnam Shakibafar
+  
+  Contributed to a smart lighting platform that Allows users to select the brightness of the house based on their interests
+  and habits"""
 
 +++
