@@ -28,12 +28,12 @@ date_format = "Jan 2006"
   Supervisor: Behnam Shakibafar
   Responsibilities include:
   
-  * • Expanded a recommendation and trend detection system
+  *  Expanded a recommendation and trend detection system
       based on user’s behavior with help of machine learning
       (mostly neural networks) Approaches such as RNN , Word2Vect , TreNet
 
   * Designed and implemented a data crawling tools with the
-    ability to be personalized
+     ability to be personalized
 
   """
 
@@ -56,7 +56,7 @@ date_format = "Jan 2006"
   date_end = "2017"
   description = """
   Supervisor: Behnam Shakibafar
-  
+
   Contributed to a smart lighting platform that Allows users to select the brightness of the house based on their interests
   and habits"""
 
