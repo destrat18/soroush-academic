@@ -26,11 +26,14 @@ date_format = "Jan 2006"
   date_end = "2018-01-01"
   description = """
   * University of Yazd is the first university in the province. to enter the Faculty
-of Computer Engineering, you must be the top 0.1% among 500,000 participants in the Iranian Nationwide University Entrance Exam.
-* B.Sc. Thesis Project:Topic-Based Classification and Suggestion System for news
-articles
+    of Computer Engineering, you must be the top 0.1% among 500,000 participants in the Iranian Nationwide University Entrance Exam.
+
+  * B.Sc. Thesis Project:Topic-Based Classification and Suggestion System for news
+    articles
+
 - Supervisor: Prof. Ali Mohammad Zareh
 - Selected as the best thesis project among 50 students.
+
 * Last Two Years’ GPA: 17.72/20
 
   """
