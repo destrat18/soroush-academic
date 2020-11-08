@@ -16,6 +16,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Machine Learning , Natural Language Understanding  and Data Analytic.
 
+interests: 
 
 
 
@@ -50,7 +51,7 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: []
 ---
-interests: 
+
 - Machine Learning, Esp. Deep Learning
 - Natural Language Understanding Esp. Machine Translation and Text Summarization
 - Big Data, Data Analytic, and Data-Driven software
