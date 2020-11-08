@@ -25,7 +25,8 @@ date_format = "Jan 2006"
   date_start = "2017-01-01"
   date_end = ""
   description = """
-  Supervisor: Behnam Shakibafar
+  Supervisor : Behnam Shakibafar
+  
   Responsibilities include:
   
   *  Expanded a recommendation and trend detection system
@@ -44,7 +45,10 @@ date_format = "Jan 2006"
   location = "Ferdowsi University of Mashhad, Mashhad, Iran"
   date_start = "2015-05-01"
   date_end = "2017-02-01"
-  description = """Expanded and evaluated real-time decision making and tactical behavior approach with potential fields."""
+  description = """
+  Supervisor: Prof. Ahad Harati
+  
+  Expanded and evaluated real-time decision making and tactical behavior approach with potential fields."""
 
 
 [[experience]]
