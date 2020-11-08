@@ -31,9 +31,9 @@ date_format = "Jan 2006"
   * B.Sc. Thesis Project:Topic-Based Classification and Suggestion System for news
     articles
 
-* -Supervisor: Prof. Ali Mohammad Zareh
+* - Supervisor: Prof. Ali Mohammad Zareh
 
-* -Selected as the best thesis project among 50 students.
+* - Selected as the best thesis project among 50 students.
 
 * Last Two Years’ GPA: 17.72/20
 
