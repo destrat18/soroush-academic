@@ -29,8 +29,8 @@ date_format = "Jan 2006"
 of Computer Engineering, you must be the top 0.1% among 500,000 participants in the Iranian Nationwide University Entrance Exam.
 * B.Sc. Thesis Project:Topic-Based Classification and Suggestion System for news
 articles
-* * Supervisor: Prof. Ali Mohammad Zareh
-* * Selected as the best thesis project among 50 students.
+- Supervisor: Prof. Ali Mohammad Zareh
+- Selected as the best thesis project among 50 students.
 * Last Two Years’ GPA: 17.72/20
 
   """
