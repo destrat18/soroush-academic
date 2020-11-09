@@ -3,8 +3,8 @@
 
 title: "Smart Lighting Platform"
 summary: ""
-authors: [Soroush]
-tags: [python,flask,sckikit_learn]
+authors: ["Soroush farrokhnia"]
+tags: ["python","flask","sckikit_learn"]
 categories: []
 date: 2020-11-09T06:14:03+03:30
 
