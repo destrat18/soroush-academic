@@ -1,12 +1,12 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Smart Lighting Platform"
+title: "Ashian"
 summary: ""
-authors: ["Soroush farrokhnia"]
-tags: ["python","flask","sckikit_learn"]
+authors: []
+tags: []
 categories: []
-date: 2020-11-09T06:14:03+03:30
+date: 2020-11-09T06:27:13+03:30
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
