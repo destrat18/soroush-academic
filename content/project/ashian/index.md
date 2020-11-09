@@ -1,6 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
+content: " hi "
+
 title: "Smart Lighting Platform"
 summary: "• Designed and developed a graphical interface to visualize real time data in personalized graphs and charts
 based on QT libraries\n
