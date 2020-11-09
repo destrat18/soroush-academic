@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Huma"
+title: "Huma Recommendation And Trend Detection System"
 summary: ""
 authors: []
 tags: []

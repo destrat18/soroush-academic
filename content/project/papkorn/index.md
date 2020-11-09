@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Papkorn"
+title: "Papkorn: Movie Recommendation API"
 summary: ""
 authors: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "XMonitor"
+title: "XMonitor: An Oscilloscope Application"
 summary: ""
 authors: []
 tags: []
