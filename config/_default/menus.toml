@@ -18,19 +18,16 @@
   url = "#projects"
   weight = 30
 
-[[main]]
-  name = "Publications"
-  url = "#featured"
-  weight = 40
-  
+
+
 [[main]]
   name = "CV"
   url = "media/Soroush_Farrokhnia_CV.pdf"
-  weight = 60
+  weight = 50
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 50
+  weight = 40
   
  

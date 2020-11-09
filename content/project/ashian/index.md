@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-content: " hi "
+
 
 title: "Smart Lighting Platform"
 summary: "• Designed and developed a graphical interface to visualize real time data in personalized graphs and charts
@@ -20,7 +20,7 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
+  caption: "static/media/IMG_20160910_150026.jpg"
   focal_point: ""
   preview_only: false
 
