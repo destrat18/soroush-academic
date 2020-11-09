@@ -1,16 +1,14 @@
 ---
- Documentation: https://wowchemy.com/docs/managing-content/
+# Documentation: https://wowchemy.com/docs/managing-content/
 
 
 
 title: "Smart Lighting Platform"
-summary: "Ashian co."
+summary: "Ashian co. "
 authors: []
 tags: []
 categories: []
-date: 2020-11-09T06:27:13+03:30
-
-
+date: 2020-11-09T07:15:33+03:30
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -19,7 +17,7 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "static/media/IMG_20160910_150026.jpg"
+  caption: ""
   focal_point: ""
   preview_only: false
 
