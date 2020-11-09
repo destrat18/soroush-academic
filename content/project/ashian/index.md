@@ -1,15 +1,15 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
+ Documentation: https://wowchemy.com/docs/managing-content/
 
 
 
 title: "Smart Lighting Platform"
-summary: "at : Ashian"
+summary: "Ashian co."
 authors: []
 tags: []
 categories: []
 date: 2020-11-09T06:27:13+03:30
-data: "Smart Lighting Platform"
+
 
 
 # Optional external URL for project (replaces project detail page).
