@@ -1,8 +1,11 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Ashian"
-summary: ""
+title: "Smart Lighting Platform"
+summary: "• Designed and developed a graphical interface to visualize real time data in personalized graphs and charts
+based on QT libraries
+• Implement asynchronous task scheduling to let users communicate with the equipment’s through a
+graphical interface based on socket connection and RS232 port"
 authors: []
 tags: []
 categories: []
